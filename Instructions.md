@@ -1,10 +1,10 @@
 # Termux-UI-Changer
 Step by step commands to copy and enter 
 # 1
-pkg update && pkg upgrade -y
-termux-setup-storage
-pkg install python ncurses-utils -y
-pip install --upgrade pip
+pkg update && pkg upgrade -y                                                                                                                          
+termux-setup-storage                                                                                                                                  
+pkg install python ncurses-utils -y                                                                                                                   
+pip install --upgrade pip                                                                                                                             
 # 2
 mkdir termux_ui.py
 # 3
