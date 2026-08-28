@@ -13,7 +13,7 @@ nano termux_ui.py
 copy-paste the code from the file termux_ui.py
 # 5
 click Ctrl then x y then enter 
-# 5
-chmod +x termux_ui.py
 # 6
+chmod +x termux_ui.py
+# 7
 python termux_ui.py
