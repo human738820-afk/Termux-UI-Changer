@@ -1,14 +1,9 @@
 # Termux-UI-Changer
 Step by step commands to copy and enter 
 # 1
-# Update packages and grant storage access
 pkg update && pkg upgrade -y
 termux-setup-storage
-
-# Install Python and essential utilities
 pkg install python ncurses-utils -y
-
-# Optional: Ensure pip is up-to-date
 pip install --upgrade pip
 # 2
 mkdir termux_ui.py
